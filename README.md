@@ -23,7 +23,7 @@ We include the object detections for the 20 object classes of the adl dataset fo
 ## Licence
 Our code and data are available under the MIT licence. If you use them for scientific research please consider citing our paper:
 ```
-@inproceedings{kapidis_where_2018-1,
+@inproceedings{kapidis_where_2018,
   title = {Where {{Am I}}? {{Comparing CNN}} and {{LSTM}} for {{Location Classification}} in {{Egocentric Videos}}},
   doi = {10.1109/PERCOMW.2018.8480258},
   booktitle = {2018 {{IEEE International Conference}} on {{Pervasive Computing}} and {{Communications Workshops}} ({{PerCom Workshops}})},
